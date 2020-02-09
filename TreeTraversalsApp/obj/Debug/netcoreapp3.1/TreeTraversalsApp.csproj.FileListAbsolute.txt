@@ -1,0 +1,11 @@
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\bin\Debug\netcoreapp3.1\TreeTraversalsApp.exe
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\bin\Debug\netcoreapp3.1\TreeTraversalsApp.deps.json
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\bin\Debug\netcoreapp3.1\TreeTraversalsApp.runtimeconfig.json
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\bin\Debug\netcoreapp3.1\TreeTraversalsApp.runtimeconfig.dev.json
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\bin\Debug\netcoreapp3.1\TreeTraversalsApp.dll
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\bin\Debug\netcoreapp3.1\TreeTraversalsApp.pdb
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\obj\Debug\netcoreapp3.1\TreeTraversalsApp.csprojAssemblyReference.cache
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\obj\Debug\netcoreapp3.1\TreeTraversalsApp.AssemblyInfoInputs.cache
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\obj\Debug\netcoreapp3.1\TreeTraversalsApp.AssemblyInfo.cs
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\obj\Debug\netcoreapp3.1\TreeTraversalsApp.dll
+D:\Github\Studies\TreeTraversals\TreeTraversalsApp\obj\Debug\netcoreapp3.1\TreeTraversalsApp.pdb
